@@ -1,7 +1,7 @@
 # bookSummarizer
-A micro SaaS built with Python (Flask) and Make for automation. It generates concise and insightful summaries of books, helping users quickly grasp key ideas. 🚀  
+A micro SaaS built with Python (Flask) and Make for automation. It simplifies book summarization by generating concise summaries via DeepSeek and delivering them directly to users' emails. 🚀
 
-🔹 Tech Stack: Flask, Make (Integromat) 
-🔹 Features: Automated book summarization, API integration, and seamless workflow execution.  
+🔹 Tech Stack: Flask, Make (Integromat), DeepSeek
+🔹 Features: Automated book summarization, AI-powered insights, and seamless email delivery.
 
-Stay productive and never miss a great idea! 💡
+Stay informed and never miss a key idea! 💡
